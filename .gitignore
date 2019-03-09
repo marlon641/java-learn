@@ -4,3 +4,8 @@
 #IDE files
 *.idea
 *.iml
+
+#java files
+*.class
+out/
+*.java
