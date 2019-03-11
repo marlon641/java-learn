@@ -4,6 +4,7 @@
 #IDE files
 *.idea
 *.iml
+java-learn.iml
 
 #directories
 /out/
